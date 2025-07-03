@@ -1,1 +1,1 @@
-# Magister
+# MagisterSite
